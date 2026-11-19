@@ -6,7 +6,7 @@ An empirical analysis of monthly retail fuel-price adjustments in Zambia from **
 
 ## Background & Research Question
 
-Zambia transitioned from quarterly to monthly fuel-price reviews in January 2022. Since then, frequent pump-price revisions have prompted public debate—including remarks by President Hakainde Hichilema—around whether longer review intervals (such as two or three months) should be considered.
+Zambia transitioned from quarterly to monthly fuel-price reviews in January 2022. Since then, frequent pump-price revisions have prompted public debate -including remarks by President Hakainde Hichilema-around whether longer review intervals (such as two or three months) should be considered.
 
 Rather than relying on anecdote, this project establishes a descriptive empirical baseline to answer:
 
@@ -15,7 +15,7 @@ Rather than relying on anecdote, this project establishes a descriptive empirica
 ## Dataset & Methodology
 
 * **Data Source:** Energy Regulation Board (ERB) official monthly retail and wholesale fuel prices for **Petrol**, **Diesel**, and **Kerosene**.
-* **Time Horizon & Sample Size:** **58 months** (January 2022 – October 2026), yielding **174 product-level observations** (one observation per product per month: **63 increases**, **60 decreases**, and **51 unchanged**).
+* **Time Horizon & Sample Size:** **58 months** (January 2022 - October 2026), yielding **174 product-level observations** (one observation per product per month: **63 increases**, **60 decreases**, and **51 unchanged**).
 * **Tools Used:**
   * **Microsoft Excel:** Data cleaning, validation, month-over-month price deltas (`K/L` and `%`), consecutive unchanged streak tracking, and standard deviation calculations.
   * **Power BI:** Relational data modeling, custom DAX measures, dynamic KPI cards, slicer interaction control, and a three-page interactive executive dashboard.
