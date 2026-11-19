@@ -66,7 +66,7 @@ The interactive Power BI report is organized into three analytical views with cu
 
 ### Page 1: Fuel Price Overview
 
-![Fuel Price Overview](Dashboard_Preview/01_Fuel_Overview.jpg)
+![Fuel Price Overview](Dashboard_Preview/01_Fuel_Overview.png)
 
 * Executive KPI strip displaying latest October 2026 retail prices alongside 2022–2026 average upward and downward percentage adjustments.
 * Multi-product retail price trend lines, overall directional share breakdown, average retail vs. wholesale price comparisons, and annual directional frequency curves.
